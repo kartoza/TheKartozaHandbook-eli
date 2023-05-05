@@ -2,6 +2,6 @@
 
 Tutorials.
 
-- [General](./general): General tutorials
-- [QGIS](./qgis): Tutorials related to QGIS
-- [Links](./links): Links to third party and external tutorials and learning resources
+- [General](./general/index.md): General tutorials
+- [QGIS](./qgis/index.md): Tutorials related to QGIS
+- [Links](./links/index.md): Links to third party and external tutorials and learning resources
